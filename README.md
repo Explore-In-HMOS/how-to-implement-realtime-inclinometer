@@ -2,7 +2,7 @@
 
 # How To Implement Realtime Inclinometer
 
-A practical realtime inclinometer sample for HarmonyOS Next smart wearables. The application combines accelerometer and gyroscope measurements with a complementary filter, displays pitch and roll in degrees, and moves a circular level indicator according to the fused angles. The codelab also demonstrates timestamp based gyroscope integration, separate sensor and UI update rates, sensor availability checks, and lifecycle aware cleanup.
+A practical realtime inclinometer sample for HarmonyOS smart wearables. The application combines accelerometer and gyroscope measurements with a complementary filter, displays pitch and roll in degrees, and moves a circular level indicator according to the fused angles. The codelab also demonstrates timestamp based gyroscope integration, separate sensor and UI update rates, sensor availability checks, and lifecycle aware cleanup.
 
 # Preview
 
